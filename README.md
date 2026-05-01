@@ -1,5 +1,22 @@
 ### Olá! 👋 
-Sou Marlon, Programador geral,
+
+
+# Marlon Viana | Data Scientist & AI Enthusiast
+
+📊 **Especialista em:** Ciência de Dados | Machine Learning | IA | Automação
+💼 **Experiência:** Itaú Unibanco (Data Science), Web Development, Tech Consulting
+🎓 **Formação:** Bacharelado em Ciência da Computação (UNIP)
+
+## 🔗 Conecte-se comigo
+- 📧 marlonrviana@gmail.com
+- 📱 (11) 9 3921-1652
+<!-- 💼 Portfólio: [seu-site.com]
+
+## 🏆 Destaques de Projetos
+[Links para seus melhores projetos]
+-->
+
+<!--Sou Marlon, Programador geral,
 **Sei:**
 - Web:
   - Wordpress
@@ -20,7 +37,7 @@ Sou Marlon, Programador geral,
 - Edição
   - Fotos (Photoshop/GIMP)
   - Vídeos (Premiere Pro/After Effects/KdenLive)
-
+-->
 
 <!--
 **NMarlon/NMarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
