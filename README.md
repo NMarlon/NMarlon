@@ -4,7 +4,9 @@
 # Marlon Viana | Data Scientist & AI Enthusiast
 
 📊 **Especialista em:** Ciência de Dados | Machine Learning | IA | Automação
+
 💼 **Experiência:** Itaú Unibanco (Data Science), Web Development, Tech Consulting
+
 🎓 **Formação:** Bacharelado em Ciência da Computação (UNIP)
 
 ## 🔗 Conecte-se comigo
